@@ -1,0 +1,4 @@
+{
+    "azure_credentials": "DefaultEndpointsProtocol=https;AccountName=dataengineers1999;AccountKey=2VAl2bhZkkb7Dl6IBa0hOzwZEIzCRgYPvE4kskBzwYddlVbANC39t7oGO9u45PLpS0TEOqOG3ZQP+AStpYmPIw==;EndpointSuffix=core.windows.net",
+    "cantainer_name": "raw"
+}
